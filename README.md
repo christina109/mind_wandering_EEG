@@ -1,5 +1,5 @@
 # mind_wandering_EEG
-Code for paper "Predicting task-general mind-wandering with EEG"
+Code for Jin, C. Y., Borst, J. P., & van Vugt, M. K. (2019). Predicting task-general mind-wandering with EEG.
 
 Citation:
 
